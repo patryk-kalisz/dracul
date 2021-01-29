@@ -1,1 +1,1 @@
-Sitemap: /dracul/sitemap.xml
+Sitemap: /dracula/sitemap.xml
