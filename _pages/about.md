@@ -3,4 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-This website is intended to be a diary for statistical exploration of limit order book properties. 
+This website is intended to be a notebook gathering ideas connected with statistical exploration of the limit order book properties. Currently, data gathered is tick data downloaded live from Warsaw Stock Exchange (WSE) for dozens of stocks and index derivatives. The dataset first records have been downloaded midyear 2018. Downloading and storing the data takes place every day for a selected group of most liquid instruments on WSE.
+
+It is not a goal of the website to present downloading and preprocessing. On this blog, I will scratch my head about features coming from the data that has already been downloaded, stored and already preprocessed for further analysis.
