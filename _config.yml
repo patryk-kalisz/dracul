@@ -7,8 +7,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 
-title: the Dracula project
-description: A way through limit orderbook
+title: The Dracula Project
+description: A way through the limit order book
 github_username: patryk-kalisz
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "dracula"
