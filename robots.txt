@@ -1,1 +1,1 @@
-Sitemap: /dracula/sitemap.xml
+Sitemap: https://patryk-kalisz.github.io/dracula/sitemap.xml
